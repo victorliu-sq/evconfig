@@ -1,0 +1,29 @@
+ls
+clear
+ls
+clear
+ls
+clear
+clear
+ls
+exit
+clear
+ls
+clear
+ls
+clear
+clear 1
+clear 1
+ssh liu.11080@cse-dnc196862d.coeit.osu.edu
+ssh liu.11080@cse-dnc196862d.coeit.osu.edu
+clear 1
+ls
+clear
+ls
+clear 1
+ls
+cd eshell/
+ls
+cd ..
+ls
+exit

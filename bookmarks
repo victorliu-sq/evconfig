@@ -1,0 +1,23 @@
+;;;; Emacs Bookmark Format Version 1;;;; -*- coding: utf-8-emacs; mode: lisp-data -*-
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("Desktop"
+ (filename . "~/Desktop/")
+ (front-context-string . "CC\n  -rw-r--r--@")
+ (rear-context-string . "92 Jan 27 23:27 ")
+ (position . 702)
+ (last-modified 26037 55526 287362 0))
+("einit"
+ (filename . "~/.emacs.d/init.el")
+ (front-context-string . "(setq initial-sc")
+ (rear-context-string)
+ (position . 1)
+ (last-modified 26035 65189 389293 0))
+("emails"
+ (filename . "~/Desktop/Emails.md")
+ (front-context-string . "\nIncremental sea")
+ (rear-context-string . " then it beeps.\n")
+ (position . 4908)
+ (last-modified 26035 18319 169935 0))
+)
